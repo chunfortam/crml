@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img1 = cv2.imread('/Users/ctam/Downloads/Old_IdeaProjects/crml/picture/notroops7051251.png')
+img1 = cv2.imread('/Users/ctam/Downloads/Old_IdeaProjects/crml/picture/sample_gameplay.png')
 img2 = cv2.imread('/Users/ctam/Downloads/Old_IdeaProjects/crml/picture/chr_musketeer_out/chr_musketeer_sprite_074.png',-1)
 img3 = cv2.imread('/Users/ctam/Downloads/Old_IdeaProjects/crml/picture/chr_musketeer_out/chr_musketeer_sprite_280.png', cv2.IMREAD_COLOR)
 img4 = cv2.imread('/Users/ctam/Downloads/Old_IdeaProjects/crml/picture/gameplaywithchr.png', cv2.IMREAD_COLOR)
